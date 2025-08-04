@@ -2,9 +2,7 @@
 ## :heavy_exclamation_mark: This is still in the development phase!
 * Coming Soon!!....
 * This is a Hostel Management System system using Django and Python!-->
-![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Saketh-Chandra/Hostel_Management_System?include_prereleases)
-[![GitHub license](https://img.shields.io/github/license/Saketh-Chandra/Hostel_Management_System)](https://github.com/Saketh-Chandra/Hostel_Management_System/blob/master/LICENSE)
-![GitHub repo size](https://img.shields.io/github/repo-size/Saketh-Chandra/Hostel_Management_System)
+
 # This is a Centralized database to allot hostel rooms to the college students
 This a web application where a user can login and create the tasks, this was built with the [Django](https://www.djangoproject.com/) web application framework
 
@@ -48,7 +46,7 @@ deactivate
 ```
 ### After setting up virtual environment do this!
 ``` bash
-git clone https://github.com/Saketh-Chandra/Hostel_Management_System.git
+git clone https://github.com/patnalaMahesh/Hostel_Management_System.git
 cd Hostel_Management_System
 pip install -r requirements.txt
 python manage.py migrate
@@ -56,11 +54,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-# :octocat: How to contribute?
 
-All contributions are welcome! Code, documentation, graphics or even design suggestions are welcome; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on contributing.
 
 ## Know issues
 ```bash
@@ -90,31 +84,3 @@ System check identified 5 issues (0 silenced).
  
 
 
-# :scroll: License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-See the full list of [contributors](https://github.com/Saketh-Chandra/Hostel_Management_System/graphs/contributors) who participated in this project and statistics.
-
-# :heavy_exclamation_mark: Prerequisites aka requirements
-
-Please read [Prerequisite](Prerequisite.md) file for details.
-
-# :scroll: Changelog
-
-Check the [changelog here](https://github.com/Saketh-Chandra/Hostel_Management_System/commits/master).
-
-# :scroll: I found some bugs or issues. Where do I report?
-
-Report [here](https://github.com/Saketh-Chandra/Hostel_Management_System/issues/new) in detail answering these questions:
-
-* What steps did you take to make the bug appear?
-* How can the bug be fixed? (In case you know)
-* Which OS and which all packages / softwares / dependencies are you using?
-* Have you tried any troubleshooting steps such as a reboot for example?
-* Have you followed the prescribed prerequisites?
-
-# :scroll: How do I contact the team?
-
-Check [here](https://github.com/Saketh-Chandra/Hostel_Management_System/graphs/contributors) for the list of contributors. Contact one of them through their profiles.
